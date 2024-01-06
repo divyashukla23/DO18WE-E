@@ -6,4 +6,4 @@ echo "THEIR FAITH BECOME HEROES AND"
 echo "CONTINUE TO EXIST ON IN LEGEND."
 echo "– NARUTO"
 
-This commit is from vishwakkanna
+echo "This commit is from vishwakkanna"
